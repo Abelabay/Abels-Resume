@@ -26,7 +26,9 @@
 * Develop Access Databases (Table, Form, Report and Query) 
 * Troubleshoot and fixed issues of server performance and maintenance jobs 
 * Generated reports using MS SQL Reporting Services (SSRS)
+
  # Experience 
+ 
 1 - SNIPERHILL INTERNET SERVICES  :   
 Location:  AFGHANISTAN / KAHNDAHAR AIR BASE
 Network Technician, February 2011 – December 2012
